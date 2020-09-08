@@ -1,3 +1,29 @@
+# Topics Covered
++ Webpack
++ TypeScript
+  - Declaring Variables
+  - Types
+  - Type Assertions
+  - Arrow Functions
+  - Interfaces
+  - Classes
+  - Objects
+  - Constructors
+  - Access Modifiers
+  - Access Modifiers in Constructor Parameters
+  - Properties
+  - Modules
++ Angular Fundamentals
+  - Components
+  - Modules
+  - Generating Components with Angular CLI
+  - Templates
+  - Directives
+  - Services
+  - Dependency Injection
+  - Generating Services with Angular CLI
+
+
 # AngularSample
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.8.
